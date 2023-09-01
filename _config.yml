@@ -39,7 +39,7 @@ author:
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
-  email     : i@lyxw.xyz
+  email     : i@shiokiri.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : shiokirixw
   weibo     : 5217668786 # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -47,10 +47,10 @@ author:
   telegram  : shiokiri
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
   zhihu     : shiokiri
-  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  douban    : 244540365 # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
+  linkedin  : shiokiri # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : Shiokiri
-  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
+  npm       : shiokiri # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
