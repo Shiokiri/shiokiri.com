@@ -1,5 +1,5 @@
 ---
-title: 搭建一个UNRAID物理服务器并认识IaaS、PaaS、SaaS
+title: 搭建一个物理服务器并安装UNRAID
 tags: 随笔
 ---
 
@@ -36,10 +36,4 @@ CPU Intel Xeon E5-2630 v4
 风扇 航嘉清风12cm
 
 网卡 SSU PCI-E千兆 RTL8111F
-
-# 效果
-
-
-
-# UNRAID配置
 
