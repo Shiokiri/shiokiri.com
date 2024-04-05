@@ -98,7 +98,7 @@ chmod +x start.sh
 
 ## MOTD
 
-[MOTD [1.8 - 1.20] | SpigotMC - High Performance Minecraft](https://www.spigotmc.org/resources/motd-1-8-1-20.8390/)
+[MOTD [1.8 - 1.20] \| SpigotMC - High Performance Minecraft](https://www.spigotmc.org/resources/motd-1-8-1-20.8390/)
 
 用于实现motd消息显示
 
