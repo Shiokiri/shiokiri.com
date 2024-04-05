@@ -1,5 +1,5 @@
 ---
-title: 写一个Chrome extensions标签栏网页至书签
+title: 写一个Chrome extensions存储标签栏网页至书签
 tags: 技术
 ---
 

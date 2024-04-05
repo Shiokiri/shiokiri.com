@@ -1,5 +1,5 @@
 ---
-title: Minecraft spigot开服记录
+title: Minecraft Spigot开服记录
 tags: 游戏
 ---
 
