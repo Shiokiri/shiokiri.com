@@ -1,5 +1,5 @@
 ---
-title: 搭建一个UNRAID物理服务器
+title: 搭建一个物理服务器并安装UNRAID
 tags: 技术
 ---
 

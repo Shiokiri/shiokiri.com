@@ -1,5 +1,5 @@
 ---
-title: 写一个Chrome扩展存储标签栏网页至书签
+title: 写一个Chrome extensions标签栏网页至书签
 tags: 技术
 ---
 
@@ -7,13 +7,13 @@ tags: 技术
 
 我一直在浏览器中开过多页面和打开浏览器保持上次浏览页面的习惯，并且喜欢把过多的页面按照当日日期保存到书签中再关闭，但这样操作步骤非常麻烦：按下Ctrl+Shift+D，选择文件夹，更改文件夹名为日期，点击确定，依次关闭所有标签栏。
 
-查找了一些插件都不太想用，因为很多都没有直接存入书签中。我认为保存到书签中是最安全最不容易丢失的方案，所以直接自己写一个简单的插件好了。
+查找了一些扩展程序都不太想用，因为很多都没有直接存入书签中。我认为保存到书签中是最安全最不容易丢失的方案，所以直接自己写一个简单的插件好了。
 
 # 配置
 
-Chrome插件的开发步骤：[创建和发布自定义 Chrome 应用和扩展程序](https://support.google.com/chrome/a/answer/2714278?hl=zh-Hans)
+Chrome extensions的开发步骤：[创建和发布自定义 Chrome 应用和扩展程序](https://support.google.com/chrome/a/answer/2714278?hl=zh-Hans)
 
-首先按照Google的文档导入一个最简单的页面：[Hello World 扩展程序  |  Extensions  |  Chrome for Developers](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics)
+首先按照Google的文档导入一个最简单的页面：[Hello World 扩展程序  \|  Extensions  \|  Chrome for Developers](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics)
 
 # 功能
 
