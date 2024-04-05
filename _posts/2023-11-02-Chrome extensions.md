@@ -13,7 +13,7 @@ tags: 技术
 
 Chrome插件的开发步骤：[创建和发布自定义 Chrome 应用和扩展程序](https://support.google.com/chrome/a/answer/2714278?hl=zh-Hans)
 
-首先按照Google的文档导入一个最简单的页面：https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics
+首先按照Google的文档导入一个最简单的页面：[Hello World 扩展程序  |  Extensions  |  Chrome for Developers](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics)
 
 # 功能
 
