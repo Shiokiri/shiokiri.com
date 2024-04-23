@@ -70,15 +70,12 @@ java -Xmx1024M -Xms1024M -jar spigot-1.20.4.jar
 vim eula.txt
 ```
 
-写一个脚本`start.sh`（spigot会阻塞shell脚本，不会启动deamon守护进程，这样写不会重复启动）
+写一个脚本`start.sh`
 
 ```
 #!/bin/sh
 trap "exit" 2
-while true
-do
 java -Xmx1024M -Xms1024M -jar spigot-1.20.4.jar
-done
 ```
 
 新建一个tmux窗口
